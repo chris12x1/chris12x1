@@ -1,6 +1,6 @@
 ## 👨🏽‍💻 About Me
 
-Hi, I’m **Christopher Diaz** — a **Cybersecurity Fellow at Per Scholas**, focused on building real-world defensive security skills and preparing for **SOC Analyst / Security Analyst** roles.
+Hi, I’m **Christopher Diaz** — a **Cybersecurity Student at Per Scholas**, focused on building real-world defensive security skills and preparing for **SOC Analyst / Security Analyst** roles.
 
 I’m passionate about **threat detection, incident response, and network security**, and I enjoy breaking down how attacks work so I can better defend against them.
 
