@@ -1,16 +1,70 @@
-## Hi there 👋
+👨🏽‍💻 About Me
 
-<!--
-**chris12x1/chris12x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Christopher Diaz — a Cybersecurity Fellow at Per Scholas, focused on building real-world defensive security skills and preparing for SOC Analyst / Security Analyst roles.
 
-Here are some ideas to get you started:
+I’m passionate about threat detection, incident response, and network security, and I enjoy breaking down how attacks work so I can better defend against them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ What I’m Working With
+
+Through hands-on labs, coursework, and self-study, I’ve been developing experience in:
+
+🔹 Security monitoring & alert triage
+🔹 Network fundamentals & traffic analysis
+🔹 Endpoint security concepts
+🔹 Log analysis & incident response workflows
+🔹 Threat detection fundamentals (MITRE ATT&CK)
+
+Tools & Platforms:
+
+Wireshark
+
+SIEM concepts & log analysis
+
+Cisco NetAcad labs
+
+TryHackMe
+
+Virtual labs & simulated environments
+
+🎯 Career Goal
+
+To land an entry-level SOC Analyst or Security Analyst role, where I can grow my blue-team skills, contribute to real security operations, and continue learning in a fast-paced environment.
+
+📚 Education & Training
+
+🎓 Per Scholas — Cybersecurity Training Program
+
+Networking Basics
+
+Network Defense
+
+Endpoint Security
+
+Incident Response fundamentals
+
+📖 Currently studying for CompTIA CySA+
+
+🔭 Current Focus
+
+Building a cybersecurity project portfolio
+
+Documenting labs with clear write-ups
+
+SIEM log analysis & alert investigation
+
+Strengthening networking & security fundamentals
+
+🤝 Let’s Connect
+
+💼 LinkedIn: (add your LinkedIn URL)
+📍 Based in New York City
+
+👨🏽‍💻 Featured Projects
+
+➡️ Check out my pinned repositories below for:
+
+Security labs & walkthroughs
+
+Network defense exercises
+
+Log analysis and detection projects
