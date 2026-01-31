@@ -55,7 +55,7 @@ To land an **entry-level SOC Analyst or Security Analyst role**, where I can gro
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: [linkedin.com/in/christopherdiaz87](https://www.linkedin.com/in/christopherdiaz87/)
-- ✉️ ✉️ Email: [christopher.diaz87@yahoo.com](mailto:christopher.diaz87@yahoo.com)
+- ✉️ Email: [christopher.diaz87@yahoo.com](mailto:christopher.diaz87@yahoo.com)
 - 📍 New York City | Open to Remote  
 
 ---
