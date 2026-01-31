@@ -1,70 +1,67 @@
-👨🏽‍💻 About Me
+## 👨🏽‍💻 About Me
 
-Hi, I’m Christopher Diaz — a Cybersecurity Fellow at Per Scholas, focused on building real-world defensive security skills and preparing for SOC Analyst / Security Analyst roles.
+Hi, I’m **Christopher Diaz** — a **Cybersecurity Fellow at Per Scholas**, focused on building real-world defensive security skills and preparing for **SOC Analyst / Security Analyst** roles.
 
-I’m passionate about threat detection, incident response, and network security, and I enjoy breaking down how attacks work so I can better defend against them.
+I’m passionate about **threat detection, incident response, and network security**, and I enjoy breaking down how attacks work so I can better defend against them.
 
-🛠️ What I’m Working With
+---
+
+## 🛠️ What I’m Working With
 
 Through hands-on labs, coursework, and self-study, I’ve been developing experience in:
 
-🔹 Security monitoring & alert triage
-🔹 Network fundamentals & traffic analysis
-🔹 Endpoint security concepts
-🔹 Log analysis & incident response workflows
-🔹 Threat detection fundamentals (MITRE ATT&CK)
+- 🔹 Security monitoring & alert triage  
+- 🔹 Network fundamentals & traffic analysis  
+- 🔹 Endpoint security concepts  
+- 🔹 Log analysis & incident response workflows  
+- 🔹 Threat detection fundamentals (MITRE ATT&CK)
 
-Tools & Platforms:
+### Tools & Platforms
+- Wireshark  
+- SIEM concepts & log analysis  
+- Cisco NetAcad labs  
+- TryHackMe  
+- Virtual labs & simulated environments  
 
-Wireshark
+---
 
-SIEM concepts & log analysis
+## 🎯 Career Goal
 
-Cisco NetAcad labs
+To land an **entry-level SOC Analyst or Security Analyst role**, where I can grow my blue-team skills, contribute to real security operations, and continue learning in a fast-paced environment.
 
-TryHackMe
+---
 
-Virtual labs & simulated environments
+## 📚 Education & Training
 
-🎯 Career Goal
+🎓 **Per Scholas — Cybersecurity Training Program**
+- Networking Basics  
+- Network Defense  
+- Endpoint Security  
+- Incident Response fundamentals  
 
-To land an entry-level SOC Analyst or Security Analyst role, where I can grow my blue-team skills, contribute to real security operations, and continue learning in a fast-paced environment.
+📖 **Currently studying for CompTIA CySA+**
 
-📚 Education & Training
+---
 
-🎓 Per Scholas — Cybersecurity Training Program
+## 🔭 Current Focus
 
-Networking Basics
+- Building a cybersecurity project portfolio  
+- Documenting labs with clear write-ups  
+- SIEM log analysis & alert investigation  
+- Strengthening networking & security fundamentals  
 
-Network Defense
+---
 
-Endpoint Security
+## 🤝 Let’s Connect
 
-Incident Response fundamentals
+- 💼 LinkedIn: [linkedin.com/in/christopherdiaz87](https://www.linkedin.com/in/christopherdiaz87/)
+- 📍 New York City | Open to Remote  
 
-📖 Currently studying for CompTIA CySA+
+---
 
-🔭 Current Focus
-
-Building a cybersecurity project portfolio
-
-Documenting labs with clear write-ups
-
-SIEM log analysis & alert investigation
-
-Strengthening networking & security fundamentals
-
-🤝 Let’s Connect
-
-💼 LinkedIn: (add your LinkedIn URL)
-📍 Based in New York City
-
-👨🏽‍💻 Featured Projects
+## 👨🏽‍💻 Featured Projects
 
 ➡️ Check out my pinned repositories below for:
-
-Security labs & walkthroughs
-
-Network defense exercises
-
-Log analysis and detection projects
+- Security labs & walkthroughs  
+- Network defense exercises  
+- Log analysis and detection projects  
