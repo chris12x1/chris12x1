@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Christopher Diaz
 
-**Cybersecurity Analyst | SOC Operations | Threat Detection | SIEM (Splunk) | Incident Response | CompTIA CySA+**
+**Cybersecurity Analyst | CompTIA CySA+ | SOC Analyst | Threat Detection | SIEM (Splunk) | Incident Response | Vulnerability Assessment**
 
 Hi, I'm Christopher Diaz — a cybersecurity professional focused on **Security Operations Center (SOC) work, threat detection, and incident response**.
 
