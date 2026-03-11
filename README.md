@@ -45,7 +45,7 @@ I am currently seeking an **entry-level SOC Analyst or Cybersecurity Analyst rol
 
 # 🎓 Certifications
 
-- CompTIA CySA+  
+- [CompTIA CySA+](https://www.credly.com/badges/4486a634-ee2e-4c99-8af9-ac6820c38343/public_url)  
 - Splunk Core Certified User  
 
 ---
