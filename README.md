@@ -90,8 +90,7 @@ Analyzed phishing email headers and authentication mechanisms (SPF, DKIM, DMARC)
 
 # 🤝 Connect With Me
 
-**LinkedIn**  
-https://linkedin.com/in/christopherdiaz87
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christopherdiaz87)
 
 **Email**  
 christopher.diaz87@yahoo.com
