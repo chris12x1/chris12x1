@@ -2,15 +2,14 @@
 
 **Cybersecurity Analyst | CompTIA CySA+ | SIEM (Splunk) | Threat Detection | SOC Analyst | Incident Response | Vulnerability Assessment**
 
-Hi, I'm Christopher Diaz — a cybersecurity professional focused on **Security Operations Center (SOC) work, threat detection, and incident response**.
-
-My background includes hands-on SOC training, security log analysis, and network investigation labs. I enjoy analyzing how attacks work and building defensive strategies to detect and respond to threats.
+Hi, I'm Christopher Diaz — a cybersecurity professional focused on **Security Operations Center (SOC) work, threat detection, and incident response**.  
+I enjoy analyzing attacks, building defensive strategies, and practicing hands-on security labs and projects.
 
 I am currently seeking an **entry-level SOC Analyst or Cybersecurity Analyst role** where I can contribute to threat monitoring and incident response operations.
 
 ---
 
-# 🛡️ Core Security Skills
+## 🛡️ Core Security Skills
 
 - Security Monitoring & Alert Triage  
 - Log Analysis & Incident Investigation  
@@ -21,7 +20,7 @@ I am currently seeking an **entry-level SOC Analyst or Cybersecurity Analyst rol
 
 ---
 
-# 🧰 Security Tools & Technologies
+## 🧰 Security Tools & Technologies
 
 ### SIEM / Monitoring
 - Splunk (Log Analysis & Alert Investigation)
@@ -43,15 +42,15 @@ I am currently seeking an **entry-level SOC Analyst or Cybersecurity Analyst rol
 
 ---
 
-# 🎓 Certifications
+## 🎓 Certifications
 
 - [CompTIA CySA+](https://www.credly.com/badges/4486a634-ee2e-4c99-8af9-ac6820c38343/public_url)  
-- [Splunk Core Certified User](https://www.credly.com/badges/01cc4b8c-4646-4232-bdd0-54b12b1336d5/public_url)
-- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/92069620-a4f1-49d8-86bd-013b2279aa9c/public_url)
+- [Splunk Core Certified User](https://www.credly.com/badges/01cc4b8c-4646-4232-bdd0-54b12b1336d5/public_url)  
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/92069620-a4f1-49d8-86bd-013b2279aa9c/public_url)  
 
 ---
 
-# 🔬 Training Programs
+## 🔬 Training Programs
 
 **Per Scholas — Cybersecurity Analyst Program**  
 Hands-on SOC training including SIEM monitoring, alert investigation, network analysis, and incident response workflows.
@@ -64,23 +63,17 @@ Training aligned with the NICE framework covering vulnerability assessment, cont
 
 ---
 
-# 📂 Featured Security Projects
+## 📂 Portfolio & Projects
 
-### Phishing Email Investigation
-Analyzed phishing email headers and authentication mechanisms (SPF, DKIM, DMARC), investigated redirect chains using urlscan.io, and documented indicators of compromise and remediation actions.
-
-**Skills Demonstrated**
-
-- Phishing Analysis  
-- Email Authentication Investigation  
-- IOC Identification  
-- Threat Documentation  
-
-➡️ See project in repository
+- [CTF Write-Ups](https://github.com/chris12x1/CTF-Writeups) – Capture the Flag challenges & problem-solving exercises  
+- [DevSecCon25 Challenge](https://github.com/chris12x1/devseccon25-proof) – Top 5 finish, Python automation & API work  
+- [TKH Phase 1](https://github.com/chris12x1/TKH-Phase1) – Security foundations labs & weekly artifacts  
+- [Foundations Lab Final](https://github.com/chris12x1/Foundations_Lab_Final) – Cybersecurity intensive final project  
+- [Cybersecurity Projects](https://github.com/chris12x1/cybersecurity-projects) – Incident response, network defense, threat analysis  
 
 ---
 
-# 🔭 Current Focus
+## 🔭 Current Focus
 
 - Expanding cybersecurity project portfolio  
 - Practicing SIEM log analysis and alert investigation  
@@ -89,11 +82,10 @@ Analyzed phishing email headers and authentication mechanisms (SPF, DKIM, DMARC)
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christopherdiaz87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christopherdiaz87)  
 
-**Email**  
-christopher.diaz87@yahoo.com
+**Email:** christopher.diaz87@yahoo.com  
 
 📍 New York City | Open to Remote Opportunities
